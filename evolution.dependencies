@@ -9,4 +9,11 @@
       "branch": "master",
       "remote": "gitlab"
    }
+  {
+    "repository": "tedomi2705/vendor_miuicamera",
+    "target_path": "vendor/miuicamera",
+    "remote": "github-non-los",
+    "branch": "udc",
+    "clone-depth": "1"
+  }
 ]
