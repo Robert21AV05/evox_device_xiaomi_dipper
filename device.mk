@@ -16,7 +16,7 @@ TARGET_SCREEN_HEIGHT := 2248
 TARGET_SCREEN_WIDTH := 1080
 
 # Camera
-$(call inherit-product-if-exists, vendor/miuicamera/config.mk)
+#$(call inherit-product-if-exists, vendor/miuicamera/config.mk)
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
